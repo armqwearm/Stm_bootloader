@@ -1,0 +1,16 @@
+# STM32F7 Bootloader
+
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+.settings/
+.metadata/
+.idea/
+.vscode/
